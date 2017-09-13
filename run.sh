@@ -1,2 +1,2 @@
 rsyslogd
-dnsmasq -k
+dnsmasq -k "$@"
