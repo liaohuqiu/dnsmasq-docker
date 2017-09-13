@@ -1,0 +1,2 @@
+rsyslogd
+dnsmasq -k
